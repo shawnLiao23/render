@@ -1,0 +1,9 @@
+The bar graph illustrates the number of male and female research students enrolled in six computer science subjects at a US university in 2011.
+
+Overall, male students outnumbered female students in all subjects except Linguistics, where females were the majority. The most significant gender disparity was observed in Engineering and Programming, while Natural Science and Mathematics had relatively smaller gaps.
+
+In Linguistics, there were approximately 220 female students compared to around 180 males, making it the only female-dominated field. Conversely, Engineering had the highest number of male students (about 250), while females accounted for only 50. Similarly, in Programming, males numbered roughly 200, whereas females were just under 100.
+
+For the remaining subjects—Psychology, Natural Science, and Mathematics—male students consistently surpassed females, though the differences were less pronounced. For instance, in Natural Science, males totaled around 150, and females were close to 100. Mathematics showed a similar trend, with approximately 180 male and 120 female students.
+
+In summary, gender disparities were evident across all subjects, with males dominating most fields except Linguistics, which attracted more female researcher.

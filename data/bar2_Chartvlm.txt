@@ -1,0 +1,1 @@
+Characteristic \t Male \t Female \n Employed (Full Time) \t 44 \t 38 \n Employed (Part Time) \t 85 \t 40 \n Unemployed \t 78 \t 78 \n Retired \t 83 \t 78 \n Housewives \t 50 \t 50 \n 

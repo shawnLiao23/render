@@ -1,0 +1,3 @@
+"The chart below shows the amount of leisure time enjoyed by men and women of different employment status."
+"Write a report for a university lecturer describing the information shown below."
+"Leisure time in a typical week in hour: by sex and employment status, 1998-99."

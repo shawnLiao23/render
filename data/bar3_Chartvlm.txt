@@ -1,0 +1,1 @@
+Characteristic \t Population \t Global Wealth \n North America \t 5% \t 35% \n China \t 25% \t 2% \n Other Asia Pacific \t 18% \t 2% \n India \t 18% \t 1% \n Europe \t 17% \t 30% \n Africa \t 10% \t 1% \n Latin America & Caribbean \t 8% \t 3% \n Rich Asia Pacific \t 5% \t 25% \n 

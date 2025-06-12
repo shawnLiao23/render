@@ -1,0 +1,7 @@
+The graph communicates the budget created by the UAE government in the year 2000. All in all, the essential targets that the government had were social security, health and education.
+
+The largest space is covered by social security, such as pensions, employment assistance and other benefits, making slightly less than one-third of the entire expense. The second highest expense of the budget were health and personal social services. Hospital and medical services covered AED 53 billion, or about 15% of the budget. On the other hand, education cost UAE AED 38 billion, comprising nearly 12% of the entire budget. The government spent approximately 7% of revenue on debt, and just about similar amounts were spent on defence, which was AED 22 billion, and law and order, which comprised AED 17 billion.
+
+Expenditure on housing, transport and industry came to a total of AED 37 billion. Lastly, other spending reported for AED 23 billion.
+
+(Lack the detail of housing, transport and industry, but them in have the total;And also use only integer, not float)

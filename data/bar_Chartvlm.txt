@@ -1,0 +1,1 @@
+Year \t Local fixed line calls \t National and international fixed line calls \t Mobile calls \n 2001 \t 72 \t 38 \t 3 \n 2002 \t 78 \t 40 \t 6 \n 2003 \t 83 \t 42 \t 10 \n 2004 \t 88 \t 45 \t 12 \n 2005 \t 90 \t 47 \t 15 \n 2006 \t 85 \t 50 \t 23 \n 2007 \t 78 \t 52 \t 38 \n 2008 \t 73 \t 58 \t 48 \n 
