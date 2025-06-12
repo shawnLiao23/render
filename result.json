@@ -1,0 +1,39 @@
+{
+  "title": "Generated Chart",
+  "categories": [
+    "Couple with children",
+    "Sole parent",
+    "Couple, no children",
+    "single people",
+    "Missing"
+  ],
+  "x_label": "",
+  "y_label": "Percentage",
+  "series": [
+    {
+      "values": [
+        15.0,
+        26.0,
+        9.0,
+        24.0,
+        26.0
+      ]
+    }
+  ],
+  "chart_type": "pie",
+  "style": {
+    "color_palette": [
+      "#8c564b",
+      "#9366bd",
+      "#d62728",
+      "#1e77b4",
+      "#e277c1",
+      "#2ca02c",
+      "#c47e79",
+      "#7fabd1",
+      "#b291cf",
+      "#9ac485"
+    ],
+    "missing_index": 4
+  }
+}
