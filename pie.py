@@ -16,8 +16,8 @@ from transformers import Pix2StructForConditionalGeneration
 
 
 # 加载 DePlot 模型（只加载一次）
-deplot_processor = Pix2StructProcessor.from_pretrained("D:\model3",local_files_only=True)
-deplot_model = Pix2StructForConditionalGeneration.from_pretrained("D:\model3",local_files_only=True)
+deplot_processor = Pix2StructProcessor.from_pretrained('google/deplot')
+deplot_model = Pix2StructForConditionalGeneration.from_pretrained('google/deplot')
 
 # DeepSeek API配置
 DEEPSEEK_API_KEY = "sk-3d63de1f971640958d6cbbe98ae670b7"  # 替换为你的实际API密钥
